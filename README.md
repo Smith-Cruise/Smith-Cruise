@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning distributed system.
+
+Secret Garden: [https://smithcruise.coding.net/public/](https://smithcruise.coding.net/public/)
 <!--
 **Smith-Cruise/Smith-Cruise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
