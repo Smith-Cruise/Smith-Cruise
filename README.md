@@ -1,5 +1,4 @@
-### Hi there 👋
-- Hello World.
+### Hello World 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smith-Cruise&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
